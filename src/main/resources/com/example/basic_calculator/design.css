@@ -1,0 +1,10 @@
+#buttonEqual {
+    -fx-background-color: #000000;
+}
+@font-face {
+    src: url('C:\Users\islam\IdeaProjects\Basic_Calculator\src\main\resources\digital-7.ttf');
+}
+
+.text {
+    -fx-font-family: "Digital";
+}
